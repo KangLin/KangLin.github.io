@@ -8,7 +8,7 @@
 - [玉兔即时通讯](https://github.com/KangLin/RabbitIm)
 - [串口助手](https://github.com/KangLin/SerialPortAssistant)
 - [人脸识别](https://github.com/KangLin/FaceRecognizer)
-- [日历](https://github.com/KangLin/Tasks)
+- [日历](https://github.com/KangLin/Calendar)
   + [qt 农历控件](https://github.com/KangLin/LunarCalendar)
 - [Android 锁屏](https://github.com/KangLin/AndroidLockScreen)
 - [玉兔基础库](https://github.com/KangLin/RabbitCommon)

@@ -15,7 +15,7 @@
 - [GPS 转换](https://github.com/KangLin/TransformCoordinate)
 - [玉兔 GIS](https://github.com/KangLin/RabbitGIS)
 - [黄金获利计算器](https://github.com/KangLin/ProfitCalculation)
-- [中国象棋控件](https://github.com/KangLin/ChinesChessCtr)
+- [中国象棋控件](https://github.com/KangLin/ChineseChessCtr)
 - [Qt Google 地图插件](https://github.com/KangLin/GoogleMapPluginForQt)
 - [设置 Windows 文件夹快捷菜单](https://github.com/KangLin/windows_right_menu)
 - [文档](https://github.com/KangLin/Documents)

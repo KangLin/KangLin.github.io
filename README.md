@@ -2,6 +2,7 @@
 
 作者：康林(kl222@126.com)
 
+[主页](https://marketplace.visualstudio.com/items?itemName=AlanWalk.markdown-toc)
 项目库位置: [https://github.com/KangLin](https://github.com/KangLin)
 
 ## 本人项目

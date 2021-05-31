@@ -8,7 +8,7 @@
 ## 本人项目
 - [玉兔即时通讯](RabbitIm)
 - [玉兔远程控制](RabbitRemoteControl)
-- [玉兔代理服务器](R)
+- [玉兔代理服务器](RabbitProxyServer)
 - [串口助手](SerialPortAssistant)
 - [人脸识别](FaceRecognizer)
 - [日历](Calendar)
